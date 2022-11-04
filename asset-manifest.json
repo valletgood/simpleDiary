@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valletgood/simpleDiary/static/css/main.aa073c5e.css",
+    "main.js": "/valletgood/simpleDiary/static/js/main.34fe9e4a.js",
+    "index.html": "/valletgood/simpleDiary/index.html",
+    "main.aa073c5e.css.map": "/valletgood/simpleDiary/static/css/main.aa073c5e.css.map",
+    "main.34fe9e4a.js.map": "/valletgood/simpleDiary/static/js/main.34fe9e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa073c5e.css",
+    "static/js/main.34fe9e4a.js"
+  ]
+}
